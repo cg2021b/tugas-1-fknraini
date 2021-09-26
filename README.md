@@ -1,7 +1,15 @@
-Box HP
+Botol spray
+
+Kanan Atas
+![kanan atas](https://user-images.githubusercontent.com/68769284/134799586-0a43ae87-23ed-4ac5-b4cf-753e61a087c0.jpeg)
+
+Kiri Atas
+![kiri atas](https://user-images.githubusercontent.com/68769284/134799593-2e05524e-bc96-4a37-b27d-a2c1a60359b9.jpeg)
+
+Depan Atas
+![depan atas](https://user-images.githubusercontent.com/68769284/134799598-5749aa83-c7a4-4a87-b3c7-0a5a4c5dd022.jpeg)
+
+Belakang Atas
+![belakang atas](https://user-images.githubusercontent.com/68769284/134799600-641352ae-b808-4492-b121-e9a677b69305.jpeg)
 
 
-![kanan atas](https://user-images.githubusercontent.com/68769284/133927783-99b04454-f103-4a6d-a104-d4534dd0089c.jpeg)
-![kiri atas](https://user-images.githubusercontent.com/68769284/133927787-02748a12-0976-4c09-b272-301091110d49.jpeg)
-![belakang atas](https://user-images.githubusercontent.com/68769284/133927788-251150ee-8be0-4eff-bec9-932f7f00370a.jpeg)
-![depan atas](https://user-images.githubusercontent.com/68769284/133927792-1df74f71-aaec-429d-8638-83e757150ed4.jpeg)
