@@ -1,8 +1,8 @@
 <h1>Tugas 1 Grafika Komputer</h1>
 
-<p>Nama  : Fika Nur Aini</h3>
-<p>NRP   : 05111940000067</h3>
-<p>Objek : Botol Spray</h3>
+<p>Nama  : Fika Nur Aini</p>
+<p>NRP   : 05111940000067</p>
+<p>Objek : Botol Spray</p>
 
 <p> Hasil program setelah dijalankan</p>
 <img src="https://media.giphy.com/media/TEIdKDqWLsCmBq6VuP/giphy.gif" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></>
@@ -21,4 +21,9 @@
 <img src="https://user-images.githubusercontent.com/68769284/134799600-641352ae-b808-4492-b121-e9a677b69305.jpeg" width="250" height="300">
 
 
+<h1>Tugas 2 Grafika Komputer</h1>
 
+<p>Menggambarkan objek 3D (3 dimensi)
+Harus menggunakan beberapa materials dan jenis lighting (AmbientLight, HemisphereLight, DirectionalLight, PointLight, Spotlights)</p>
+
+<p>Untuk jawaban terletak pada folder yang berjudul </p>
