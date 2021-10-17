@@ -26,4 +26,4 @@
 <p>Menggambarkan objek 3D (3 dimensi)
 Harus menggunakan beberapa materials dan jenis lighting (AmbientLight, HemisphereLight, DirectionalLight, PointLight, Spotlights)</p>
 
-<p>Untuk jawaban terletak pada folder yang berjudul </p>
+<p>Untuk jawaban terletak pada folder yang berjudul "Tugas Individu Three JS" </p>
