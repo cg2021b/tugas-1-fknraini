@@ -27,3 +27,7 @@
 Harus menggunakan beberapa materials dan jenis lighting (AmbientLight, HemisphereLight, DirectionalLight, PointLight, Spotlights)</p>
 
 <p>Untuk jawaban terletak pada folder yang berjudul "Tugas Individu Three JS" </p>
+
+
+<h1>Tugas 3 Grafika Komputer</h1>
+<p>Buat obyek baru yang muncul diposisi dan warna secara random yang semakin lama semakin cepat, Berhenti tambah obyek baru jika jumlah obyek sudah mencapai batas tertentu. Pilih 2 obyek pasangan yang memiliki warna yang sama. jk 2 obyek pasangan sudah terpilih, hapus obyek2 tersebut dan tambah skor</p>
